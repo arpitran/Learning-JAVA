@@ -1,0 +1,54 @@
+/Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=52955:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/kathrynhodge/Desktop/Main/out/production/Main Main
+Init
+Parking Medium Handicapped cars
+The car has parked in a MEDIUM HANDICAPPED
+The car has parked in a MEDIUM HANDICAPPED
+The car has parked in a MEDIUM HANDICAPPED
+The car has parked in a MEDIUM HANDICAPPED
+The car has parked in a MEDIUM HANDICAPPED
+The car has parked in a MEDIUM REGULAR
+
+Parking Large regular trucks
+The car has parked in a LARGE REGULAR
+The car has parked in a LARGE REGULAR
+The car has parked in a LARGE REGULAR
+The car has parked in a LARGE REGULAR
+The car has parked in a LARGE REGULAR
+The car has parked in a LARGE REGULAR
+The car has parked in a LARGE REGULAR
+The car has parked in a LARGE REGULAR
+
+Parking Medium Regular cars
+The car has parked in a MEDIUM REGULAR
+The car has parked in a MEDIUM REGULAR
+The car has parked in a MEDIUM REGULAR
+
+Parking Large Handicapped truck
+The car has parked in a LARGE REGULAR
+
+Parking Large Regular truck
+The car has parked in a LARGE REGULAR
+
+Parking Large Handicapped truck
+The car cannot be parked at this time.
+
+Parking Small Regular bike
+The car has parked in a SMALL REGULAR
+The car has parked in a SMALL REGULAR
+The car has parked in a SMALL REGULAR
+
+Parking Medium regular car
+The car has parked in a MEDIUM REGULAR
+
+Is the parking lot full? false
+
+What spots are left?
+There are 6 SMALL REGULAR spots left.
+There are 0 SMALL HANDICAPPED spots left.
+There are 19 MEDIUM REGULAR spots left.
+There are 0 MEDIUM HANDICAPPED spots left.
+There are 0 LARGE REGULAR spots left.
+There are 0 LARGE HANDICAPPED spots left.
+
+
+Process finished with exit code 0
