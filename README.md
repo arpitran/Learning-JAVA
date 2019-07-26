@@ -65,7 +65,7 @@ class Dog
 * Methods: bark()
 
 Dog A
-* Breed:"German Shepherd", Age: 3,Color: Brown
+* Breed:"German Shepherd", Age: 3,Color: Brown \newline
 Dog B
 * Breed: "Golden Retriever",Age: 5, Color: Golden
 
