@@ -1,7 +1,7 @@
 # Learning-JAVA
 
 Java was designed so applications can be executed on any platform that supports JAVA
-without having to be recompiled
+without having to be recompiled.
 
 A repository of learning the basics of JAVA for Interview Questions
 
@@ -33,3 +33,26 @@ Always Be ready
 * Continually enhance your skills, build your brand, and expand your knowledge
 * Work on personal projects, run through example technical questions, and review key
 concepts
+
+# The Java Virtual Machine (JVM)
+* For the JVM to work, it has to be implemented on a given platform according to the Java Virtual Machine
+specifications
+
+* An abstract machine that can be mapped to any platform
+* It described a set of instructions, registers, stack, heap, and method area
+
+Once the specification and JVM have been implemented for a given platform, any Java program can run on that platform
+
+* JVM provides a platform-independent way of executing code
+* No JVM implementation is the same
+* No major effects on your programs
+
+# The Java Runtime Environment(JRE) and the Java Development Kit(JDK)
+
+It allows you to create and run Java Programs
+
+* The JRE contains the JVM, as well as browser plug-ins for executing Java applets
+* The JRE is what you need to run a Java Program
+* The JDK is a full-featured software development kit for Java, including the JRE, as well as compilers,
+debuggers, and tools to create Programs
+* The JDK is what you need to develop Java Programs
