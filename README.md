@@ -20,10 +20,10 @@ Ability to answer technical questions is essential
 
 # Types of Questions for Java Devs
 
-Java Language
-Object-oriented Programming
-Algorithms
-Data structures
+Java Language \n
+Object-oriented Programming \n
+Algorithms \n
+Data structures \n
 
 Always Be ready
 * Continually enhance your skills, build your brand, and expand your knowledge
