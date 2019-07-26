@@ -70,6 +70,7 @@ Dog A
 Dog B  <br/>
 
 * Breed: "Golden Retriever",Age: 5, Color: Golden
+<br /><br />
 
 * Dog A and Dog B both have a breed, age, and color,but the values of these different attributes are
 different
