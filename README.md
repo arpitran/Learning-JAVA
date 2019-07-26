@@ -76,3 +76,19 @@ Dog B  <br/>
 different
 * Each dog can call the bark method
 * Dog A and Dog B would be instances of the Dog Class.
+
+Understanding the difference between Class and Instance
+
+# Static vs Non Static Methods
+
+**Static Method**
+* Class Method
+* Belongs to the class itself
+* Do not need an instance in order to use a static Method
+* Method depends on Class
+
+**Non Static Method**
+* Instance Method
+* Belongs to each object generated from the class
+* Need an instance to use
+* Method depends on individual characteristics of the Object
