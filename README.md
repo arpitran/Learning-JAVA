@@ -1,4 +1,8 @@
 # Learning-JAVA
+
+Java was designed so applications can be executed on any platform that supports JAVA
+without having to be recompiled
+
 A repository of learning the basics of JAVA for Interview Questions
 
 Basics of Java Programming
@@ -20,10 +24,10 @@ Ability to answer technical questions is essential
 
 # Types of Questions for Java Devs
 
-Java Language \n
-Object-oriented Programming \n
-Algorithms \n
-Data structures \n
+Java Language
+Object-oriented Programming
+Algorithms
+Data structures
 
 Always Be ready
 * Continually enhance your skills, build your brand, and expand your knowledge
