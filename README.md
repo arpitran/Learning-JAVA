@@ -13,12 +13,12 @@ Basics of Programming
 * Familiarity with a text editor
 * Familiarity with an integrated development environment
 
-##Interviewing is an important skill to development
+#Interviewing is an important skill to development
 
 There are both culture-fit and technical interviews
 Ability to answer technical questions is essential
 
-### Types of Questions for Java Devs
+# Types of Questions for Java Devs
 
 Java Language
 Object-oriented Programming
