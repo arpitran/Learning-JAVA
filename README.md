@@ -24,3 +24,8 @@ Java Language
 Object-oriented Programming
 Algorithms
 Data structures
+
+Always Be ready
+* Continually enhance your skills, build your brand, and expand your knowledge
+* Work on personal projects, run through example technical questions, and review key
+concepts
