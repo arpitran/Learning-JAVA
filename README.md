@@ -56,3 +56,20 @@ It allows you to create and run Java Programs
 * The JDK is a full-featured software development kit for Java, including the JRE, as well as compilers,
 debuggers, and tools to create Programs
 * The JDK is what you need to develop Java Programs
+* In order to use an IDE, you must have the JDK already installed
+
+# Class Vs. Instance
+
+class Dog
+* Attributes: string breed, int age, string color
+* Methods: bark()
+
+Dog A
+* Breed:"German Shepherd", Age: 3,Color: Brown
+Dog B
+* Breed: "Golden Retriever",Age: 5, Color: Golden
+
+* Dog A and Dog B both have a breed, age, and color,but the values of these different attributes are
+different
+* Each dog can call the bark method
+* Dog A and Dog B would be instances of the Dog Class.
